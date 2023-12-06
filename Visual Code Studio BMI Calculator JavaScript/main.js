@@ -31,3 +31,5 @@ function calculate() {
                 document.getElementById("results").innerHTML = error;
         }
 }
+
+module.exports = calculate;
